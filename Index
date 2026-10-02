@@ -26,7 +26,7 @@
 
     <iframe 
         src="https://script.google.com/macros/s/AKfycbxk2pPPTPtnRpE0jqHEWUjK-u5wbOAhHD6x5_kPjSQ_z0R1P1dx2DF3Odxc38G8cCC7/exec" 
-        >
+        allow="geolocation; microphone; camera">
     </iframe>
 
 </body>
